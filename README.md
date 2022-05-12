@@ -1,6 +1,6 @@
 ## About Me
 Hello There,
-I am Sultan Mahmud Nahian. A passionate problem solver who would like to solve challenging programming related task and experienced in implementing machine learning and deep learning models. As an enthusiastic programmer, I always love to think critically in the deep level of a problem and dissecting algorithms. 
+I am Sultan Mahmud Nahian. I am a computer science graduate and a passionate problem solver who would like to solve challenging programming related task and experienced in implementing machine learning and deep learning models. As an enthusiastic programmer, I always love to think critically in the deep level of a problem and dissecting algorithms. 
 
 ## Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=smn06&rank=SECRET,AA,B,C&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -60,7 +60,7 @@ I am Sultan Mahmud Nahian. A passionate problem solver who would like to solve c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-Android	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Contribution
