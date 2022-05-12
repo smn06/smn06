@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smn06&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?smn06=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **smn06/smn06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
