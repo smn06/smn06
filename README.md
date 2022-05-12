@@ -1,7 +1,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smn06&rank=S,AA,B,C&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=smn06&rank=S,A,AA,B,C&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smn06&show_icons=true&theme=dark)
