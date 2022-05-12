@@ -1,3 +1,6 @@
+<head>
+  <title>HTML Elements Reference</title>
+</head>
 Hello There,
 I am Sultan Mahmud Nahian. A passionate problem solver who would like to solve challenging programming related task and experienced in implementing machine learning and deep learning models. As an enthusiastic programmer, I always love to think critically in the deep level of a problem and dissecting algorithms. 
 
