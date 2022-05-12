@@ -1,6 +1,7 @@
 
 
 <p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=smn06&rank=SECRET,AA,B,C&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
