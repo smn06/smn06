@@ -1,5 +1,5 @@
 ## About Me
-<br>Hello There,<br />
+Hello There,<br />
 I am a computer science graduate and a passionate problem solver who would like to solve challenging programming related task and experienced in implementing machine learning and deep learning models. As an enthusiastic programmer, I always love to think critically in the deep level of a problem and dissecting algorithms. 
 
 ## Stats
